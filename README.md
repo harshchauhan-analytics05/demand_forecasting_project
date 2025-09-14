@@ -4,7 +4,11 @@
 This project focuses on **demand forecasting** using a historical sales dataset (2013–2017) collected from Kaggle.  
 The goal is to build a reliable forecasting model and provide insights to help businesses optimize **inventory, resource allocation, and profitability**.  
 
----
+
+
+---<img width="1327" height="746" alt="demand_forecasting_dashboard" src="https://github.com/user-attachments/assets/a31c8a8d-a922-488d-b7ab-091495063f60" />
+
+
 
 ## 📂 Repository Structure  
 ├── notebooks/ # Jupyter notebooks (EDA, Model building,report)
